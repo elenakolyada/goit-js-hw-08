@@ -554,7 +554,8 @@ gallery.insertAdjacentHTML("afterbegin", ListImg.join(" "));
 new (0, _simplelightboxDefault.default)(".gallery a", {
     captionsData: "alt",
     captionDelay: 250
-}); // console.log(galleryItems);
+});
+console.log((0, _galleryItems.galleryItems));
 
 },{"./gallery-items":"9C7dK","simplelightbox":"9ydBq","simplelightbox/dist/simple-lightbox.min.css":"kaxSc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"9C7dK":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
