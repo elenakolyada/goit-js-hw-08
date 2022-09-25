@@ -18,5 +18,8 @@
   "homepage": "https://github.com/elenakolyada/goit-js-hw-08#readme",
   "dependencies": {
     "simplelightbox": "^2.10.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
   }
 }
