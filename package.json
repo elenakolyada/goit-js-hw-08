@@ -2,7 +2,11 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
+<<<<<<< Updated upstream
   "main": "index.js",
+=======
+  "homepage": "https://elenakolyada.github.io/goit-js-hw-08",
+>>>>>>> Stashed changes
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/*.html",
@@ -24,6 +28,13 @@
     "simplelightbox": "^2.10.3"
   },
   "devDependencies": {
+<<<<<<< Updated upstream
     "parcel": "^2.7.0"
   }
+=======
+    "parcel": "^2.7.0",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+>>>>>>> Stashed changes
 }
